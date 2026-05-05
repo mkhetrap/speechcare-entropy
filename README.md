@@ -37,7 +37,7 @@ All included preview versions support:
 This repo is meant as a focused handoff for porting entropy behavior into a live codebase.
 Recommended process:
 1. Review `generate_interface.py` for source implementation.
-2. Use `webpage_UI/cohort/*cohort_preview_v1/v2/v3.html` as visual reference and behavior validation.
+2. Use `https://mkhetrap.github.io/speechcare-entropy/webpage_UI/*cohort/*cohort_preview_v1/v2/v3.html` as visual reference and behavior validation. (Cohort : `ad`, `mci`, `control`)
 3. Port the entropy section styles/scripts into the target live template.
 ## Notes
 - These preview files are static HTML snapshots for review/testing.
