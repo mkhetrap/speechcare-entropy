@@ -43,3 +43,8 @@ Recommended process:
 - These preview files are static HTML snapshots for review/testing.
 - They rely on embedded content generated from the original project pipeline.
 - This repo intentionally excludes unrelated project files to keep the entropy changes isolated.
+
+
+SpeechCare : https://speechcare.net 
+
+Explainability Project : https://speechcare.net/projects/explainability/demo/dbxv 
