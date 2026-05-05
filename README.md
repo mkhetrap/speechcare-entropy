@@ -3,7 +3,7 @@ This repository contains the entropy-graph integration work extracted from the S
 ## What is included
 ### 1) Entropy integration script
 - `interface/generate_interface.py`
-This script contains the core logic used to generate the report HTML and entropy section behavior, including:
+- This script contains the core logic used to generate the report HTML and entropy section behavior, including:
   - entropy plot display wiring
   - second audio player under entropy
   - synchronized playback behavior
@@ -19,6 +19,7 @@ This script contains the core logic used to generate the report HTML and entropy
 - `preview_pages/control_preview_v1.html`
 - `preview_pages/control_preview_v2.html`
 - `preview_pages/control_preview_v3.html`
+
 These are static preview outputs showing three UI versions per cohort.
 ## Version meaning
 For each cohort (`ad`, `mci`, `control`):
