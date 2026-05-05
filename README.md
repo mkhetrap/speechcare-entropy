@@ -4,11 +4,11 @@ This repository contains the entropy-graph integration work extracted from the S
 ### 1) Entropy integration script
 - `interface/generate_interface.py`
 This script contains the core logic used to generate the report HTML and entropy section behavior, including:
-- entropy plot display wiring
-- second audio player under entropy
-- synchronized playback behavior
-- moving red playhead over the entropy graph
-- real-time transcript display variants
+  - entropy plot display wiring
+  - second audio player under entropy
+  - synchronized playback behavior
+  - moving red playhead over the entropy graph
+  - real-time transcript display variants
 ### 2) Preview variants (AD / MCI / Control)
 - `preview_pages/ad_preview_v1.html`
 - `preview_pages/ad_preview_v2.html`
